@@ -24,10 +24,9 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 
 ## Research Interests
-- **Causal Inference and Precision Medicine:** causal subpopulation identification, mediation analysis, personalized recommendation based on treatment effect and generated effect modifiers
-- **Machine Learning:** fairness ML, semi-supervised learning
-- **Manifold Learning and Metric Learning:** positive semi-definite manifold learning and metric learning
-- **Functional Data Analysis:** functional regression, and clustering methods
+- **Media Psychology and Social Cognition:** causal subpopulation identification, mediation analysis, personalized recommendation based on treatment effect and generated effect modifiers
+- **Health Communication:** fairness ML, semi-supervised learning
+- **Environment, Science and Risk Communication:** positive semi-definite manifold learning and metric learning
 
 
 ## Awards
