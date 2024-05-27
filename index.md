@@ -36,7 +36,7 @@ Outside of academia, I enjoy photography, both digital and film, as well as phot
 
 
 ## News and Updates
-- **[Apr 11, 2024]** Completed my presentation at the #2024ECREA Journalism Study Conference hosted by the University of Sheffield📝!
+- **[Apr 11, 2024]** Completed my presentation at the <a href="https://www.sheffield.ac.uk/journalism/research/ecrea-journalism-2024" target="_blank"> #2024ECREA Journalism Study Conference</a> hosted by the University of Sheffield📝!
 - **[Mar 11, 2024]** Received a recommendation from Renmin University of China and a $5,500 grant👏. This September, I will be visiting and studying at the University of California, Davis!✈️
 - **[Feb 29, 2024]** A new paper on *politically motivated unfriending* has been accepted by #24ICA-Preconference Digital Asia☀️! 
 - **[Jan 10, 2024]** Our paper on *constructive journalism and pro-environment behaviors* has been accepted by #24ICA! 👀 See you in Gold Coast, Australia!
