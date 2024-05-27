@@ -12,7 +12,7 @@ I am currently an M.A. student in Communication Science at <a href="https://en.r
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
 
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
+Outside of academia, I enjoy photography, both digital and film, as well as photo shooting and documentary production. In this regard, I have won provincial awards in the <a href="http://jscts.org.cn/web/notice.php?content=true&newid=27" target="_blank"> Jiangsu Province Transportation Science Popularization Competition</a> and have broadcast my work to the public during China Science Popularization Day.
 
 
 ## Research Interests
