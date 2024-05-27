@@ -35,8 +35,8 @@ Outside of academia, I enjoy photography, both digital and film, as well as phot
 
 
 
-
-
+## News and Updates
+- **[Jan 10, 2024]** Our paper on *constructive journalism and pro-environment behaviors* has been accepted by #24ICA! 👀 See you in Gold Coast, Australia!
 
 
 
