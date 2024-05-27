@@ -29,7 +29,7 @@ twitter: https://x.com/wangharri
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 avatar: ./assets/image.jpg
 # logo: ./assets/img/logo.png
-favicon: ./assets/img/avatar2.png
+favicon: ./assets/avatar2.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
