@@ -12,13 +12,13 @@ I am currently an M.A. student in Communication Science at <a href="https://en.r
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
 
-Outside of academia, I enjoy photography, both digital and film, as well as photo shooting and documentary production. In this regard, I have won provincial awards in the <a href="http://jscts.org.cn/web/notice.php?content=true&newid=27" target="_blank"> Jiangsu Province Transportation Science Popularization Competition</a> and have broadcast my work to the public during China Science Popularization Day.
+Outside of academia, I enjoy photography, both digital and film, as well as photo shooting and documentary production. In this regard, I have won provincial awards in the <a href="http://jscts.org.cn/web/notice.php?content=true&newid=27" target="_blank"> Jiangsu Province Transportation Science Popularization Competition</a> and have broadcast my documentary to the public during China Science Popularization Day.
 
 
 ## Research Interests
-- **Media Psychology and Social Cognition:** Emerging Digital Techonology and Mental Health (e.g. subjective well-being, FoMO); Cognitive and Affective Mechanisms of Persuasive Message Effects.
-- **Health Communication:** fairness ML, semi-supervised learning
-- **Environment, Science and Risk Communication:** Public Risk Perception and Engagement in Science (e.g. Microplastics issue and Climate Change).
+- **Media Psychology and Social Cognition:** emerging digital techonology and mental health (e.g. subjective well-being, FoMO); cognitive and affective mechanisms of persuasive message effects.
+- **Health Communication:** <a href="https://www.who.int/news-room/fact-sheets/detail/one-health" target="_blank"> "One Health"</a>
+- **Environment, Science and Risk Communication:** public risk perception and engagement in science (e.g. Microplastics issue and Climate Change); promoting consensus on science and environment issue.
 
 ## Awards
 - **[June. 2021]** <a href="https://jyt.jiangsu.gov.cn/art/2021/6/10/art_58382_9846695.html" target="_blank">*Outstanding Graduate*</a> of Jiangsu Province
