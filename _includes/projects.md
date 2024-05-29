@@ -39,7 +39,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/PEBs.pdf">The Relationship between Perceived Social (Dis)Connectedness and Fear of Missing Out (FoMO): a Meta-Analysis</a></div>
     <div class="author"><strong>Haoyu Wang*</strong>, Xiaoyu Xia</div>
-    <div class="periodical"><em>Frontiers in Public Health<strong>(NCA)</strong></em></div>
+    <div class="periodical"><em><strong>Frontiers in Public Health</strong></em></div>
     <div class="links">
       <a href="assets/PEBs.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
       <strong><i style="color:#7b5aa6">Under Review: Major Revision</i></strong>
