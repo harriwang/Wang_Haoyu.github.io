@@ -76,7 +76,7 @@ Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issu
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/disaster.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/disaster2.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ECREA</abbr>
   </div>
 
@@ -87,8 +87,6 @@ Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issu
     <div class="links">
       <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
       <strong><i style="color:#7b5aa6">presenter</i></strong>
     </div>
   </div>
