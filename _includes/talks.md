@@ -1,161 +1,161 @@
-<h2 id="Talks" style="margin: 2px 0px -15px;">Talks</h2>
+<h2 id="Selected COnference Presentations" style="margin: 2px 0px -15px;">Talks</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-
-
+<!-- 
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/JSM2024.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">JSM</abbr>
+    <img src="assets/img/principalmanifold.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICA</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/cpc/presentation.html" target="_blank">Common Principal Components Subspace for Positive Semi-Definie Matrices</a></div>
-    <div class="author"><strong>Hanchao Zhang</strong>, Thaddeus Tarpey</div>
-    <div class="periodical"><em>the Joint Statistical Meeting <strong>(JSM)</strong>, 2024, Portland, OR.</em></div>
+    <div class="title"><a href="https://arxiv.org/abs/2306.06534">Principal and Self-Consistent Positive Semi-Defnite Manifolds</a></div>
+    <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
+    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Aug. 2023.</em></div>
     <div class="links">
-      <a href="assets/files/cpc/presentation.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
-      <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    <a href="assets/files/single.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Hanchao-Zhang/Self-Consistency-Clustering" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/cpc/presentation.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a>
-      <strong><i style="color:#7b5aa6">Poster Presentation</i></strong>
+      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
   </div>
 </div>
-</li>
-  
-<br>
+</li> -->
 
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/TTHS2023.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">TTHS</abbr>
+    <img src="assets/peb.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NCA</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/TenHave2023.pdf" target="_blank">K-Tensors: Clustering Postive Semi-Definite Matrices</a></div>
-    <div class="author"><strong>Hanchao Zhang</strong>, Thaddeus Tarpey</div>
-    <div class="periodical"><em>Thomas R. Ten Have Symposium <strong>(TTHS)</strong>, Harvard University, 2023, Cambridge, MA.</em></div>
+    <div class="title"><a href="assets/PEBs.pdf">Is Fear of Missing Out (FoMO) Driven by Perceived Social Disconnectedness or Connectedness? A Meta-Analysis</a></div>
+    <div class="author"><strong>Haoyu Wang*</strong>, Xiaoyu Xia</div>
+    <div class="periodical"><em>110th National Communication Association Annual Convention<strong>(NCA)</strong></em></div>
     <div class="links">
-      <a href="assets/files/TenHave2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
-      <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/TTH Program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Program</a>
-      <strong><i style="color:#7b5aa6">Poster Presentation</i></strong>
+      <a href="assets/PEBs.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+      <strong><i style="color:#7b5aa6">presenter</i></strong>
     </div>
   </div>
 </div>
 </li>
-  
-<br>
-
-
 
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ENAR2023.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ENAR</abbr>
+    <img src="assets/peb.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICA</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/ENAR2023.pdf" target="_blank">Clustering Positive Semi-Definite Matrices: A Metric Learning Approach</a></div>
-    <div class="author"><strong>Hanchao Zhang</strong>, Thaddeus Tarpey</div>
-    <div class="periodical"><em>the International Biometric Society Eastern North American Region <strong>(ENAR)</strong>, 2023, Nashville, TN.</em></div>
+    <div class="title"><a href="assets/PEBs.pdf">“See the World with Both Eyes”: Using EPPM to Evaluate the Impact of Constructive Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issue</a></div>
+    <div class="author"><strong>Haoyu Wang*</strong>, Han Wang</div>
+    <div class="periodical"><em>Annual International Communication Association Conference <strong>(ICA)</strong></em></div>
     <div class="links">
-      <a href="assets/files/ENAR2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
-      <a href="https://github.com/Hanchao-Zhang" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://www.enar.org/meetings/spring2023/program/scientific_program.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <!-- <a href="assets/files/ENAR2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      <strong><i style="color:#7b5aa6">Invited Talk</i></strong>
+      <a href="assets/PEBs.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+      <strong><i style="color:#7b5aa6">presenter</i></strong>
     </div>
   </div>
 </div>
 </li>
-  
-<br>
-
 
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/fdawg.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">FDAWG</abbr>
+    <img src="assets/unfriend.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICA</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/JSM2022.pdf" target="_blank">Functional Data Clustering and Generated Effect Modifier on Functional and Penalized Functional Regression</a></div>
-    <div class="author"><strong>Hanchao Zhang</strong>, Thaddeus Tarpey</div>
-    <div class="periodical"><em>the Functional Data Analysis Working Group <strong>(FDAWG)</strong>, Columbia University, 2022, New York, NY.</em></div>
+    <div class="title"><a href="assets/unfriending.pdf">Can Disconnection Make Us Discuss Politics Freely? A Moderated-Mediation Model of Cross-Cutting Exposure on Social Media Political Expression via Politically Motivated Unfriending and Blocking Contingent upon Fear of Social Isolation</a></div>
+    <div class="author"><strong>Haoyu Wang*</strong>, Dandan Wang, Wenwen Cao</div>
+    <div class="periodical"><em>Annual International Communication Association Conference <strong>(ICA Preconference)</strong></em></div>
     <div class="links">
-      <a href="assets/files/JSM2022.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
-      <a href="https://github.com/Hanchao-Zhang" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://www.publichealth.columbia.edu/research/programs/functional-data-analysis-working-group" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <!-- <a href="assets/files/JSM2022.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      <strong><i style="color:#7b5aa6">Invited Talk</i></strong>
+      <a href="assets、unfriending.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+      <strong><i style="color:#7b5aa6">presenter</i></strong>
     </div>
   </div>
 </div>
 </li>
-  
-<br>
+
+  <li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/peb.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">MHM</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="assets/PEBs.pdf">The Impact of Health Anxiety on Cyberchondria: The Mediating Roles of Brooding Rumination, Health Information Insufficiency, and Craving from the Perspective of I-PACE Model</a></div>
+    <div class="author"><strong>Haoyu Wang*</strong></div>
+    <div class="periodical"><em>Peking Univerisity, The 7th Medicine, Humanity and Media International Conference<strong>(MHM)</strong></em></div>
+    <div class="links">
+      <a href="assets/PEBs.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+      <strong><i style="color:#7b5aa6">presenter</i></strong>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/JSM2022.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">JSM</abbr>
+    <img src="assets/disaster3.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECREA</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/JSM2022.pdf" target="_blank">Optimal Transformations of High-Dimensional Functional Data for Clustering Methods</a></div>
-    <div class="author"><strong>Hanchao Zhang</strong>, Thaddeus Tarpey</div>
-    <div class="periodical"><em>the Joint Statistical Meeting <strong>(JSM)</strong>, 2022, Washington, D.C.</em></div>
+    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Moderated Mediation Between Disaster News Overload and Avoidance: The Role of Compassion Fatigue and Collectivism Value</a></div>
+    <div class="author"><strong>Haoyu Wang*</strong>, Xiaofen Ma </div>
+    <div class="periodical"><em>the European Communication Research and Education Association Journalism Studies Conference <strong>(ECREA)</strong></em></div>
     <div class="links">
-      <a href="assets/files/JSM2022.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
-      <a href="https://github.com/Hanchao-Zhang" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323029" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <!-- <a href="assets/files/JSM2022.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      <strong><i style="color:#7b5aa6">Invited Talk</i></strong>
+      <a href="assets/ECREA.pdf" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <strong><i style="color:#7b5aa6">presenter</i></strong>
     </div>
   </div>
 </div>
 </li>
-  
-<br>
 
-
-<li>
+<!-- 
+  <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/JSM2021.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">JSM</abbr>
+    <img src="assets/IAMCR.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IAMCR</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/JSM2021.pdf" target="_blank">Optimal Linear Transformations of Functional Data for Clustering Methods</a></div>
-    <div class="author"><strong>Hanchao Zhang</strong>, Thaddeus Tarpey</div>
-    <div class="periodical"><em>the Joint Statistical Meeting <strong>(JSM)</strong>, 2021, Online.</em></div>
+    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Eastern Data, Western Computing: Understanding Government-Companies Relationship and (Re)Distribution of Internet Outcomes on China’s National Big Data Infrastructure Project</a></div>
+    <div class="author"><strong>Haoyu Wang*</strong>, Ke Ma, Han Wang </div>
+    <div class="periodical"><em>International Association for Media and Communication Research <strong>(IAMCR)</strong>.</em></div>
     <div class="links">
-      <a href="assets/files/JSM2021.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
-      <a href="https://github.com/Hanchao-Zhang" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317415" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <!-- <a href="assets/files/JSM2021.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      <strong><i style="color:#7b5aa6">Invited Talk</i></strong>
+      <a href="assets/ECREA.pdf" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <strong><i style="color:#7b5aa6">presenter</i></strong>
     </div>
   </div>
 </div>
-</li>
+</li> -->
+
+<br>
+
+</ol>
+</div>
+
   
 
 </ol>
