@@ -28,6 +28,25 @@
 </div>
 </li> -->
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/peb.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NCA</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="assets/PEBs.pdf">Is Fear of Missing Out (FoMO) Driven by Perceived Social Disconnectedness or Connectedness? A Meta-Analysis</a></div>
+    <div class="author"><strong>Haoyu Wang*</strong>, Xiaoyu Xia</div>
+    <div class="periodical"><em>110th National Communication Association Annual Convention<strong>(NCA)</strong></em></div>
+    <div class="links">
+      <a href="assets/PEBs.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+      <strong><i style="color:#7b5aa6">presenter</i></strong>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
