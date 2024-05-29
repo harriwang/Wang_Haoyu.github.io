@@ -92,7 +92,27 @@ Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issu
   </div>
 </div>
 </li>
-  
+
+  <li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/disaster3.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IAMCR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Eastern Data, Western Computing: Understanding Government-Companies Relationship and (Re)Distribution of Internet Outcomes on China’s National Big Data Infrastructure Project</a></div>
+    <div class="author"><strong>Haoyu Wang*</strong>, Ke Ma, Han Wang </div>
+    <div class="periodical"><em>International Association for Media and Communication Research <strong>(IAMCR)</strong>.</em></div>
+    <div class="links">
+      <a href="assets/ECREA.pdf" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <strong><i style="color:#7b5aa6">presenter</i></strong>
+    </div>
+  </div>
+</div>
+</li>
 <br>
 
 </ol>
