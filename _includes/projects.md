@@ -38,10 +38,9 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/PEBs.pdf">“See the World with Both Eyes”: Using EPPM to Evaluate the Impact of Constructive
-Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issue</a></div>
+    <div class="title"><a href="assets/PEBs.pdf">“See the World with Both Eyes”: Using EPPM to Evaluate the Impact of Constructive Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issue</a></div>
     <div class="author"><strong>Haoyu Wang*</strong>, Han Wang</div>
-    <div class="periodical"><em>Annual International Communication Association Conference <strong>(ICA)</strong>, Jun. 2024.</em></div>
+    <div class="periodical"><em>Annual International Communication Association Conference <strong>(ICA)</strong></em></div>
     <div class="links">
       <a href="assets/PEBs.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
       <strong><i style="color:#7b5aa6">presenter</i></strong>
@@ -49,7 +48,6 @@ Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issu
   </div>
 </div>
 </li>
-
 
 <li>
 <div class="pub-row">
@@ -62,7 +60,7 @@ Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issu
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/unfriending.pdf">Can Disconnection Make Us Discuss Politics Freely? A Moderated-Mediation Model of Cross-Cutting Exposure on Social Media Political Expression via Politically Motivated Unfriending and Blocking Contingent upon Fear of Social Isolation</a></div>
     <div class="author"><strong>Haoyu Wang*</strong>, Dandan Wang, Wenwen Cao</div>
-    <div class="periodical"><em>Annual International Communication Association Conference <strong>(ICA Preconference)</strong>, Jun. 2024.</em></div>
+    <div class="periodical"><em>Annual International Communication Association Conference <strong>(ICA Preconference)</strong></em></div>
     <div class="links">
       <a href="assets、unfriending.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
       <strong><i style="color:#7b5aa6">presenter</i></strong>
@@ -70,7 +68,26 @@ Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issu
   </div>
 </div>
 </li>
-  
+
+  <li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/peb.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICA</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="assets/PEBs.pdf">The Impact of Health Anxiety on Cyberchondria: The Mediating Roles of Brooding Rumination, Health Information Insufficiency, and Craving from the Perspective of I-PACE Model</a></div>
+    <div class="author"><strong>Haoyu Wang*</strong></div>
+    <div class="periodical"><em>Peking Univerisity, The 7th Medicine, Humanity and Media International Conference<strong>(MHM)</strong></em></div>
+    <div class="links">
+      <a href="assets/PEBs.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+      <strong><i style="color:#7b5aa6">presenter</i></strong>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
@@ -83,7 +100,7 @@ Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issu
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Moderated Mediation Between Disaster News Overload and Avoidance: The Role of Compassion Fatigue and Collectivism Value</a></div>
     <div class="author"><strong>Haoyu Wang*</strong>, Xiaofen Ma </div>
-    <div class="periodical"><em>the European Communication Research and Education Association Journalism Studies Conference <strong>(ECREA)</strong>, Apr. 2024.</em></div>
+    <div class="periodical"><em>the European Communication Research and Education Association Journalism Studies Conference <strong>(ECREA)</strong></em></div>
     <div class="links">
       <a href="assets/ECREA.pdf" role="button" target="_blank" style="font-size:12px;">Abstract</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
