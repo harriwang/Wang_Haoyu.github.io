@@ -76,7 +76,7 @@ Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issu
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/disaster2.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/disaster3.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ECREA</abbr>
   </div>
 
