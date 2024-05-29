@@ -129,7 +129,7 @@
 </div>
 </li>
 
-  <li>
+<li id="hidden-items" style="display:none;">
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -150,8 +150,7 @@
 </div>
 </li>
 
-<br>
-
 </ol>
 </div>
 
+<button id="see-more-btn" class="btn btn-primary" onclick="document.getElementById('hidden-items').style.display='block'; this.style.display='none';">See More</button>
