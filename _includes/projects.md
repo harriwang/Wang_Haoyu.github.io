@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected Conference Presentations</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -9,7 +9,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/principalmanifold.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICA</abbr>
+    <abbr class="badge">Major Revision</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -33,16 +33,16 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/peb.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">NCA</abbr>
+    <abbr class="badge">Major Revision</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/PEBs.pdf">Is Fear of Missing Out (FoMO) Driven by Perceived Social Disconnectedness or Connectedness? A Meta-Analysis</a></div>
+    <div class="title"><a href="assets/PEBs.pdf">The Relationship between Perceived Social (Dis)Connectedness and Fear of Missing Out (FoMO): a Meta-Analysis</a></div>
     <div class="author"><strong>Haoyu Wang*</strong>, Xiaoyu Xia</div>
-    <div class="periodical"><em>110th National Communication Association Annual Convention<strong>(NCA)</strong></em></div>
+    <div class="periodical"><em>Frontiers in Public Health<strong>(NCA)</strong></em></div>
     <div class="links">
       <a href="assets/PEBs.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
-      <strong><i style="color:#7b5aa6">presenter</i></strong>
+      <strong><i style="color:#7b5aa6">Under Review: Major Revision</i></strong>
     </div>
   </div>
 </div>
