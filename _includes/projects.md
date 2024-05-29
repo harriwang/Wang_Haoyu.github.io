@@ -37,10 +37,10 @@
     <abbr class="badge">ICA</abbr>
   </div>
 
-  <div class="col-sm-9" style="position: relative;padding-right: 45px;padding-left: 25px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/PEBs.pdf">“See the World with Both Eyes”: Using EPPM to Evaluate the Impact of Constructive
 Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issue</a></div>
-    <div class="author"><strong>Haoyu Wang*, Han Wang</strong></div>
+    <div class="author"><strong>Haoyu Wang*</strong>, Han Wang</div>
     <div class="periodical"><em>Annual International Communication Association Conference <strong>(ICA)</strong>, Jun. 2024.</em></div>
     <div class="links">
       <a href="assets/PEBs.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
@@ -61,7 +61,7 @@ Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issu
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/unfriending.pdf">Can Disconnection Make Us Discuss Politics Freely? A Moderated-Mediation Model of Cross-Cutting Exposure on Social Media Political Expression via Politically Motivated Unfriending and Blocking Contingent upon Fear of Social Isolation</a></div>
-    <div class="author"><strong>Haoyu Wang, Dandan Wang, Wenwen Cao</strong></div>
+    <div class="author"><strong>Haoyu Wang*</strong>, Dandan Wang, Wenwen Cao</div>
     <div class="periodical"><em>Annual International Communication Association Conference <strong>(ICA Preconference)</strong>, Jun. 2024.</em></div>
     <div class="links">
       <a href="assets、unfriending.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
@@ -81,9 +81,9 @@ Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issu
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Open Case Studies</a></div>
-    <div class="author">Stephanie Hicks, Leah Jager, Margaret Taub, Carrie Wright, John Muschelli, Lyla Atta, Michael Breshock, Qier Meng, Alexandra Stephens, <strong>Hanchao Zhang</strong>, and etc. </div>
-    <div class="periodical"><em>the Johns Hopkins University, and Bloomberg American Health Initiative.</em></div>
+    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Moderated Mediation Between Disaster News Overload and Avoidance: The Role of Compassion Fatigue and Collectivism Value</a></div>
+    <div class="author"></strong> Haoyu Wang*</strong>, Xiaofen Ma </div>
+    <div class="periodical"><em>the European Communication Research and Education Association (ECREA) Journalism Studies Conference</em></div>
     <div class="links">
       <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
