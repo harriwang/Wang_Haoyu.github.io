@@ -143,7 +143,7 @@
     <div class="author"><strong>Haoyu Wang*</strong>, Ke Ma, Han Wang </div>
     <div class="periodical"><em>International Association for Media and Communication Research <strong>(IAMCR)</strong>.</em></div>
     <div class="links">
-      <a href="assets/ECREA.pdf" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+      <a href="assets/ECREA.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
       <strong><i style="color:#7b5aa6">presenter</i></strong>
     </div>
@@ -154,6 +154,7 @@
 </ol>
 </div>
 
-<button id="see-more-btn" class="btn btn-primary" onclick="document.getElementById('hidden-items').style.display='block'; this.style.display='none'; document.getElementById('see-less-btn').style.display='block';">See More</button>
-<button id="see-less-btn" class="btn btn-secondary" onclick="document.getElementById('hidden-items').style.display='none'; this.style.display='none'; document.getElementById('see-more-btn').style.display='block';" style="display:none;">See Less</button>
+<button id="see-more-btn" class="btn btn-sm z-depth-0" onclick="document.getElementById('hidden-items').style.display='block'; this.style.display='none'; document.getElementById('see-less-btn').style.display='inline-block';" style="font-size:12px;">See More</button>
+<button id="see-less-btn" class="btn btn-sm z-depth-0" onclick="document.getElementById('hidden-items').style.display='none'; this.style.display='none'; document.getElementById('see-more-btn').style.display='inline-block';" style="font-size:12px; display:none;">See Less</button>
+
 
