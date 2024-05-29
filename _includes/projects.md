@@ -37,7 +37,7 @@
     <abbr class="badge">ICA</abbr>
   </div>
 
-  <div class="col-sm-9" style="position: relative;padding-right: 25px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 45px;padding-left: 25px;">
     <div class="title"><a href="assets/PEBs.pdf">“See the World with Both Eyes”: Using EPPM to Evaluate the Impact of Constructive
 Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issue</a></div>
     <div class="author"><strong>Haoyu Wang*, Han Wang</strong></div>
@@ -62,7 +62,7 @@ Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issu
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">On the Inference of Confounders for Mediation Analysis</a></div>
     <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jun. 2024.</em></div>
+    <div class="periodical"><em>Annual International Communication Association Conference <strong>(ICA)</strong>, Jun. 2024.</em></div>
     <div class="links">
     <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
