@@ -130,7 +130,7 @@
 </li>
 
 
-<li>
+<li id="hidden-items" style="display:none;">
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -154,8 +154,9 @@
 </ol>
 </div>
 
-<button id="see-more-btn" class="btn btn-primary" onclick="document.getElementById('hidden-items').style.display='block'; this.style.display='none'; document.getElementById('see-less-btn').style.display='block';">Expand</button>
+<button id="see-more-btn" class="btn btn-primary" onclick="document.getElementById('hidden-items').style.display='block'; this.style.display='none'; document.getElementById('see-less-btn').style.display='block';" style="background-color: #7b5aa6;">Expand</button>
 
-<button id="see-less-btn" class="btn btn-primary" style="display:none;" onclick="document.getElementById('hidden-items').style.display='none'; document.getElementById('see-more-btn').style.display='block'; this.style.display='none';">Collapse</button>
+<button id="see-less-btn" class="btn btn-primary" style="display:none; background-color: #7b5aa6;" onclick="document.getElementById('hidden-items').style.display='none'; document.getElementById('see-more-btn').style.display='block'; this.style.display='none';">Collapse</button>
+
 
 
