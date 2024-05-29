@@ -129,6 +129,7 @@
 </div>
 </li>
 
+
 <li id="hidden-items" style="display:none;">
 <div class="pub-row">
 
@@ -153,4 +154,6 @@
 </ol>
 </div>
 
-<button id="see-more-btn" class="btn btn-primary" onclick="document.getElementById('hidden-items').style.display='block'; this.style.display='none';">See More</button>
+<button id="see-more-btn" class="btn btn-primary" onclick="document.getElementById('hidden-items').style.display='block'; this.style.display='none'; document.getElementById('see-less-btn').style.display='block';">See More</button>
+<button id="see-less-btn" class="btn btn-secondary" onclick="document.getElementById('hidden-items').style.display='none'; this.style.display='none'; document.getElementById('see-more-btn').style.display='block';" style="display:none;">See Less</button>
+
