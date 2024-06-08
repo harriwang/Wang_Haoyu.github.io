@@ -37,8 +37,6 @@
     <div class="author"><strong>Haoyu Wang*</strong>Xiaoyu Xia</div>
     <div class="periodical"><em><strong>Under Preparation</strong></em></div>
     <div class="links">
-
-
     </div>
   </div>
 </div>
