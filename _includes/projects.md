@@ -14,7 +14,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2306.06534">The Relationship between Perceived Social (Dis)Connectedness and Fear of Missing Out (FoMO): a Meta-Analysis</a></div>
-    <div class="author"><strong>Haoyu Wang*</strong>Xiaoyu Xia</div>
+    <div class="author"><strong>Haoyu Wang*</strong>, Xiaoyu Xia</div>
     <div class="periodical"><em><strong>Frontiers in Public Health</strong></em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -34,7 +34,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://rpubs.com/wangharri/1194425">Does Digital Detox Make Us More Satisfied with Life? A Bayesian Meta-Analysis</a></div>
-    <div class="author"><strong>Haoyu Wang*</strong>Xiaoyu Xia</div>
+    <div class="author"><strong>Haoyu Wang*</strong>, Xiaoyu Xia</div>
     <div class="periodical"><em><strong>Under Preparation</strong></em></div>
     <div class="links">
     </div>
