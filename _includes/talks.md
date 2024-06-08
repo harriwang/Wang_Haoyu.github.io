@@ -36,7 +36,7 @@
     <abbr class="badge">NCA</abbr>
   </div>
 
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 20px;padding-left: 20px;">
     <div class="title"><a href="assets/fo.pdf">Is Fear of Missing Out (FoMO) Driven by Perceived Social Disconnectedness or Connectedness? A Meta-Analysis</a></div>
     <div class="author"><strong>Haoyu Wang*</strong>, Xiaoyu Xia</div>
     <div class="periodical"><em>110th National Communication Association Annual Convention<strong>(NCA)</strong></em></div>
@@ -56,7 +56,7 @@
     <abbr class="badge">ICA</abbr>
   </div>
 
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 20px;padding-left: 20px;">
     <div class="title"><a href="assets/PEBs.pdf">“See the World with Both Eyes”: Using EPPM to Evaluate the Impact of Constructive Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issue</a></div>
     <div class="author"><strong>Haoyu Wang*</strong>, Han Wang</div>
     <div class="periodical"><em>Annual International Communication Association Conference <strong>(ICA)</strong></em></div>
