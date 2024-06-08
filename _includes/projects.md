@@ -8,7 +8,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/principalmanifold.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/fo.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Major Revision</abbr>
   </div>
 
@@ -37,8 +37,8 @@
     <div class="author"><strong>Haoyu Wang*</strong>Xiaoyu Xia</div>
     <div class="periodical"><em><strong>Under Preparation</strong></em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">Under Review: Major Revision</i></strong>
+
+
     </div>
   </div>
 </div>
