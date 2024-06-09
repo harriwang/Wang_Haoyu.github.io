@@ -119,7 +119,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Moderated Mediation Between Disaster News Overload and Avoidance: The Role of Compassion Fatigue and Collectivism Value</a></div>
     <div class="author"><strong>Haoyu Wang*</strong>, Xiaofen Ma </div>
-    <div class="periodical"><em>the European Communication Research and Education Association Journalism Studies Conference <strong>(ECREA)</strong></em></div>
+    <div class="periodical"><em>European Communication Research and Education Association Journalism Studies Conference <strong>(ECREA)</strong></em></div>
     <div class="links">
       <a href="assets/ECREA.pdf" role="button" target="_blank" style="font-size:12px;">Abstract</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
