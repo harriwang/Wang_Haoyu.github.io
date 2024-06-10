@@ -59,7 +59,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 20px;padding-left: 20px;">
     <div class="title"><a href="assets/PEBs.pdf">“See the World with Both Eyes”: Using EPPM to Evaluate the Impact of Constructive Journalism on the Intention of Pro-Environmental Behaviors in Microplastics Issue</a></div>
     <div class="author"><strong>Haoyu Wang*</strong>, Han Wang</div>
-    <div class="periodical"><em>Annual International Communication Association Conference <strong>(ICA)</strong></em></div>
+    <div class="periodical"><em> <a href="https://www.icahdq.org/mpage/ica24" target="_blank">Annual International Communication Association Conference</a> <strong>(ICA)</strong></em></div>
     <div class="links">
       <a href="assets/PEBs.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
       <strong><i style="color:#7b5aa6">presenter</i></strong>
