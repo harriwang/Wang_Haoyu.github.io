@@ -37,11 +37,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 20px;padding-left: 20px;">
-    <div class="title"><a href="assets/fo.pdf">Is Fear of Missing Out (FoMO) Driven by Perceived Social Disconnectedness or Connectedness? A Meta-Analysis</a></div>
+    <div class="title"><a href="assets/FoMO.pdf">Is Fear of Missing Out (FoMO) Driven by Perceived Social Disconnectedness or Connectedness? A Meta-Analysis</a></div>
     <div class="author"><strong>Haoyu Wang*</strong>, Xiaoyu Xia</div>
     <div class="periodical"><em>110th National Communication Association Annual Convention<strong>(NCA)</strong></em></div>
     <div class="links">
-      <a href="assets/PEBs.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+      <a href="assets/FoMO.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
       <strong><i style="color:#7b5aa6">presenter</i></strong>
     </div>
   </div>
@@ -81,7 +81,7 @@
     <div class="author"><strong>Haoyu Wang*</strong>, Dandan Wang, Wenwen Cao</div>
     <div class="periodical"><em>Annual International Communication Association Conference <strong>(ICA Preconference)</strong></em></div>
     <div class="links">
-      <a href="assets、unfriending.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+      <a href="assets/unfriending.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
       <strong><i style="color:#7b5aa6">presenter</i></strong>
     </div>
   </div>
@@ -97,11 +97,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/PEBs.pdf">The Impact of Health Anxiety on Cyberchondria: The Mediating Roles of Brooding Rumination, Health Information Insufficiency, and Craving from the Perspective of I-PACE Model</a></div>
+    <div class="title"><a href="assets/cyberchondria.pdf">The Impact of Health Anxiety on Cyberchondria: The Mediating Roles of Brooding Rumination, Health Information Insufficiency, and Craving from the Perspective of I-PACE Model</a></div>
     <div class="author"><strong>Haoyu Wang*</strong></div>
     <div class="periodical"><em>Peking Univerisity, The 7th Medicine, Humanity and Media International Conference<strong>(MHM)</strong></em></div>
     <div class="links">
-      <a href="assets/PEBs.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+      <a href="assets/cyberchondria.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
       <strong><i style="color:#7b5aa6">presenter</i></strong>
     </div>
   </div>
@@ -117,7 +117,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Moderated Mediation Between Disaster News Overload and Avoidance: The Role of Compassion Fatigue and Collectivism Value</a></div>
+    <div class="title"><a href="assets/ECREA.pdf" target="_blank">Moderated Mediation Between Disaster News Overload and Avoidance: The Role of Compassion Fatigue and Collectivism Value</a></div>
     <div class="author"><strong>Haoyu Wang*</strong>, Xiaofen Ma </div>
     <div class="periodical"><em>European Communication Research and Education Association Journalism Studies Conference <strong>(ECREA)</strong></em></div>
     <div class="links">
