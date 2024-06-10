@@ -23,7 +23,7 @@ Outside of academia, I enjoy photography, both digital and film, as well as phot
 
 ## Research Interests
 - **Media Psychology and Social Cognition:** Emerging digital techonology and mental health (e.g. subjective well-being, FoMO); cognitive and affective mechanisms of persuasive message effects.
-- **Health, Environment, Science Communication:** Public risk perception and engagement in health, environment and science (e.g. microplastics issue and climate change) from the perspective of <a href="https://www.who.int/news-room/fact-sheets/detail/one-health" target="_blank"> "One Health"</a>
+- **Health, Environment, Science Communication:** Public risk perception and engagement in health, environment and science (e.g. microplastics issue and climate change) from the perspective of <a href="https://www.who.int/news-room/fact-sheets/detail/one-health" target="_blank"> "One Health"</a>.
 
 ## Awards
 - **[June. 2021]** <a href="https://jyt.jiangsu.gov.cn/art/2021/6/10/art_58382_9846695.html" target="_blank">*Outstanding Graduate*</a> of Jiangsu Province
