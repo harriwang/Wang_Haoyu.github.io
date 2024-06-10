@@ -122,7 +122,7 @@
     <div class="periodical"><em>European Communication Research and Education Association Journalism Studies Conference <strong>(ECREA)</strong></em></div>
     <div class="links">
       <a href="assets/ECREA.pdf" role="button" target="_blank" style="font-size:12px;">Abstract</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <a href="assets/wanghaoyu_ppt_ECREA.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
       <strong><i style="color:#7b5aa6">presenter</i></strong>
     </div>
   </div>
