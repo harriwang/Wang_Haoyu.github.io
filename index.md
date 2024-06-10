@@ -9,9 +9,9 @@ I am currently an M.A. student in Communication Science at <a href="https://en.r
 
 **My research is motivated by the following crucial question: How can we promote a healthier and safer civil society?** My exploration in this domain operates on two levels.
 
-First, I focus on the role of digital technologies in promoting or hindering individual well-being. In the past, my research has included evaluating the effectiveness of digital detox interventions in enhancing subjective well-being, elucidating the relationship between (dis)connectedness and individual Fear of Missing Out (FoMO), and analyzing the cognitive mechanisms underlying cyberchondria.
+**First, I focus on the role of digital technologies in promoting or hindering individual well-being.** In the past, my research has included evaluating the effectiveness of digital detox interventions in enhancing subjective well-being, elucidating the relationship between (dis)connectedness and individual Fear of Missing Out (FoMO), and analyzing the cognitive mechanisms underlying cyberchondria.
 
-Second, I investigate how to promote public attitudes and engagement towards health, environment, and science, and how to build a sustainable balance and interactive relationship between the health of humans, animals, and ecosystems from a "One Health" perspective. For instance, I have studied how to design persuasive messages to encourage public action on the issue of Microplastics (MPs), which is a significant concern in both climate change and human health.
+**Second, I investigate how to promote public engagement towards health, environment, and science**, and **how to build a sustainable balance and interactive relationship between the health of humans, animals, and ecosystems from a "One Health" perspective**. For instance, I have studied how to design persuasive messages to encourage public action on the issue of Microplastics (MPs), which is a significant concern in both climate change and human health.
 
 My methodological toolkit encompasses a range of techniques, including web-based experiments, surveys, and meta-analysis. I am proficient in using software such as R, JASP, SPSS, and AMOS for data analysis.
 
