@@ -22,7 +22,7 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 Outside of academia, I enjoy photography, both digital and film, as well as photo shooting and documentary production. In this regard, I have won provincial awards in the <a href="http://jscts.org.cn/web/notice.php?content=true&newid=27" target="_blank"> Jiangsu Province Transportation Science Popularization Competition</a> and have broadcast my documentary to the public during China Science Popularization Day.
 
 ## Research Interests
-- **Media Psychology and Social Cognition:** Emerging digital techonology and mental health (e.g. subjective well-being, FoMO); cognitive and affective mechanisms of persuasive message effects.
+- **Media Psychology and Social Cognition:** Emerging digital technology and mental health (e.g. subjective well-being, FoMO); cognitive and affective mechanisms of persuasive message effects.
 - **Health, Environment, Science Communication:** Public risk perception and engagement in health, environment and science (e.g. microplastics issue and climate change) from the perspective of <a href="https://www.who.int/news-room/fact-sheets/detail/one-health" target="_blank"> "One Health"</a>.
 
 ## Awards
