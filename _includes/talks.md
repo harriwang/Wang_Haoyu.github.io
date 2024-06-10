@@ -157,7 +157,7 @@
 <h2 id="Services" style="margin: 2px 0px 5px;">Services</h2>
 <h4 style="margin: 10px 10px 0;">Reviewers</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 10px;">
   <li><a href="https://link.springer.com/journal/12144" target="_blank">Current Psychology</a> (Journal Reviewer)</li>
   <li><a href="https://www.natcom.org/" target="_blank">National Communication Association(NCA) Annual Convention</a> (Conference Paper Reviewer)</li>
   <li><a href="https://www.icahdq.org/default.aspx" target="_blank">Annual Inernational Communication Association(ICA) Conference</a> (Conference Paper Reviewer)</li>
