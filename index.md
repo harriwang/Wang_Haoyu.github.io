@@ -11,11 +11,10 @@ I am currently an M.A. student in Communication Science at <a href="https://en.r
 
 **First, I focus on the role of digital technologies in promoting or hindering individual mental health.** In the past, my research has included evaluating the effectiveness of digital detox interventions in enhancing subjective well-being, elucidating the relationship between (dis)connectedness and individual Fear of Missing Out (FoMO), and analyzing the cognitive mechanisms underlying cyberchondria.
 
-**Second, I investigate how to promote public engagement towards health, environment, and science**, and **how to build a sustainable balance and interactive relationship between the health of humans, animals, and ecosystems from a "One Health" perspective**. For instance, I have studied how to design persuasive messages to encourage public action on the issue of Microplastics (MPs), which is a significant concern in both climate change and human health.
+**Second, I investigate how to promote public engagement towards health, environment, and science**, and **how to build a sustainable balance and interactive relationship between the health of humans, animals, and ecosystems from a "One Health" perspective**. For instance, I have studied how to design persuasive messages to encourage public action on the issue of microplastics (MPs), which is a significant concern in both climate change and human health. I hope my research will contribute to the construction of a healthy and sustainable society, not only for individual members of the public but also for animals and the overall ecosystems.
 
 My methodological toolkit encompasses a range of techniques, including web-based experiments, surveys, and meta-analysis. I am proficient in using software such as R, JASP, SPSS, and AMOS for data analysis.
 
-I hope my research will contribute to the construction of a healthy and sustainable society, not only for individual members of the public but also for animals and the overall ecosystems.
 
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
