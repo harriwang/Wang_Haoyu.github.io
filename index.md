@@ -17,9 +17,6 @@ My methodological toolkit encompasses a range of techniques, including web-based
 
 I hope my research will contribute to the construction of a healthy and sustainable society, not only for individual members of the public but also for animals and the overall ecosystems.
 
-Outside of academia, I enjoy photography, both digital and film, as well as photo shooting and documentary production. In this regard, I have won provincial awards in the Jiangsu Province Transportation Science Popularization Competition and have broadcast my documentary to the public during China Science Popularization Day.
-
-
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
 
