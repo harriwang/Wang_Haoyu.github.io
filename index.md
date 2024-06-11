@@ -27,7 +27,7 @@ Outside of academia, I enjoy photography, both digital and film, as well as phot
 
 ## Awards
 - **[June. 2021]** <a href="https://jyt.jiangsu.gov.cn/art/2021/6/10/art_58382_9846695.html" target="_blank">*Outstanding Graduate*</a> of Jiangsu Province
-
+  Only 926 out of 600,000 2021 graduates in Jiangsu Province were awarded the title.
 
 <!-- {% include_relative _includes/publications.md %} -->
 
