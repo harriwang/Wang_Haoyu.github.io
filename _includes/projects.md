@@ -13,11 +13,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2306.06534">The Relationship between Perceived Social (Dis)Connectedness and Fear of Missing Out (FoMO): a Meta-Analysis</a></div>
+    <div class="title"><a href="assets/FoMO.pdf">The Relationship between Perceived Social (Dis)Connectedness and Fear of Missing Out (FoMO): a Meta-Analysis</a></div>
     <div class="author"><strong>Haoyu Wang*</strong>, Xiaoyu Xia</div>
     <div class="periodical"><em><strong>Frontiers in Public Health</strong></em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/FoMO.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#7b5aa6">Under Review: Revision</i></strong>
     </div>
   </div>
