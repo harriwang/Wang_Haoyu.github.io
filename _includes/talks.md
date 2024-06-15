@@ -139,7 +139,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="IAMCR_CPT.pdf" target="_blank">Eastern Data, Western Computing: Understanding Government-Companies Relationship and (Re)Distribution of Internet Outcomes on China’s National Big Data Infrastructure Project</a></div>
+    <div class="title"><a href="assets/IAMCR_CPT.pdf" target="_blank">Eastern Data, Western Computing: Understanding Government-Companies Relationship and (Re)Distribution of Internet Outcomes on China’s National Big Data Infrastructure Project</a></div>
     <div class="author"><strong>Haoyu Wang*</strong>, Ke Ma, Han Wang </div>
     <div class="periodical"><em>International Association for Media and Communication Research <strong>(IAMCR)</strong>.</em></div>
     <div class="links">
