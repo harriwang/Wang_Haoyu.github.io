@@ -177,7 +177,7 @@
 </div>
 
 <h2 id="Services" style="margin: 2px 0px 5px;">Services</h2>
-<h4 style="margin: 10px 10px 0;">Reviewers</h4>
+<h4 style="margin: 10px 10px 0;">Reviewers and Volunteers</h4>
 
 <ul style="margin:0 0 10px;">
   <li><a href="https://link.springer.com/journal/12144" target="_blank">Current Psychology</a> (Journal Reviewer)</li>
