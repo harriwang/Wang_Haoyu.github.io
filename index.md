@@ -40,6 +40,8 @@ Outside of academia, I enjoy photography, both digital and film, as well as phot
 
 
 ## News and Updates
+
+- **[Jul 11, 2024]** Two of my papers have been accepted for presentation at the National Communication Association's 2024 Annual Convention! #2024 NCA 
 - **[Apr 11, 2024]** Completed my presentation at the <a href="https://www.sheffield.ac.uk/journalism/research/ecrea-journalism-2024" target="_blank"> #2024ECREA Journalism Study Conference</a> hosted by the University of Sheffield!
 - **[Mar 11, 2024]** Received a recommendation from <a href="https://grs.ruc.edu.cn/info/1017/2988.htm" target="_blank"> Renmin University of China</a> and a $5,500 grant. This September, I will be visiting and studying at the <a href="https://communication.ucdavis.edu/" target="_blank"> University of California, Davis</a>!
 - **[Feb 29, 2024]** A new paper on *politically motivated unfriending* has been accepted by  <a href="https://www.icahdq.org/mpage/ICA24-digitalasia">#24ICA-Preconference Digital Asia</a>! 
