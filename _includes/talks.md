@@ -184,7 +184,7 @@
   <li><a href="https://www.natcom.org/" target="_blank">National Communication Association (NCA) Annual Convention</a> (Conference Paper Reviewer)</li>
   <li><a href="https://www.icahdq.org/default.aspx" target="_blank">Annual Inernational Communication Association(ICA) Conference</a> (Conference Paper Reviewer)</li>
   <li><a href="https://iamcr.org/" target="_blank">International Association for Media and Communication Research (IAMCR) Annual Conference</a> (Conference Paper Reviewer)</li>
-  <li><a href="https://mp.weixin.qq.com/s/52sjxqy_7mqXIJ-oZzFrIw" target="_blank">The 6th Peking University “Medicine, Humanity and Media” International Conference</a> (Conference Volunteer)</li>
+  <li><a href="https://mp.weixin.qq.com/s/52sjxqy_7mqXIJ-oZzFrIw" target="_blank">The 7th Peking University “Medicine, Humanity and Media” International Conference</a> (Conference Volunteer)</li>
 </ul>
 
 <br>
