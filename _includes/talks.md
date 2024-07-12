@@ -135,6 +135,27 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/cyber.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">MHM</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="assets/cyberchondria.pdf" target="_blank">The Impact of Health Anxiety on Cyberchondria: The Mediating Roles of Brooding Rumination, Health Information Insufficiency, and Craving from the Perspective of I-PACE Model</a></div>
+    <div class="author"><strong>Haoyu Wang*</strong></div>
+    <div class="periodical"><em>Peking Univerisity, <a href="https://mp.weixin.qq.com/s/52sjxqy_7mqXIJ-oZzFrIw" target="_blank">The 7th Medicine, Humanity and Media International Conference</a><strong> (MHM; 🏆Outstanding Paper Award)</strong></em></div>
+    <div class="links">
+      <a href="assets/ECREA.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+      <a href="assets/cyberchondria.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <strong><i style="color:#7b5aa6">presenter</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+  <li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/disaster3.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ECREA</abbr>
   </div>
