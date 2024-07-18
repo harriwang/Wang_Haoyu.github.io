@@ -42,6 +42,24 @@
 </div>
 </li> 
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <img src="assets/LPA.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Under Preparation</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Latent Profile Analysis of Cyberchondria and its Relationships with Health Anxiety and Health Information Behaviors</a></div>
+    <div class="author"><strong>Haoyu Wang*</strong>, Jingxi Chen</div>
+    <div class="periodical"><em><strong>Under Preparation</strong></em></div>
+    <div class="links">
+    </div>
+  </div>
+</div>
+</li> 
+
 <br>
 
 </ol>
