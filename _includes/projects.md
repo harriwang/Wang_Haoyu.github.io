@@ -9,16 +9,16 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <img src="assets/fo.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Revision</abbr>
+    <abbr class="badge">Under Review</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/FoMO.pdf">The Relationship between Perceived Social (Dis)Connectedness and Fear of Missing Out (FoMO): a Meta-Analysis</a></div>
     <div class="author"><strong>Haoyu Wang*</strong>, Xiaoyu Xia</div>
-    <div class="periodical"><em><strong>Frontiers in Public Health</strong></em></div>
+    <div class="periodical"><em><strong>Current Psychology</strong></em></div>
     <div class="links">
       <a href="assets/FoMO.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">Under Review: Revision</i></strong>
+      <strong><i style="color:#7b5aa6">Under Review</i></strong>
     </div>
   </div>
 </div>
