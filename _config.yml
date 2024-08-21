@@ -1,4 +1,4 @@
-url: "wanghaoyu.xyz "
+url: "wanghaoyu.xyz"
 # baseurl: Hanchao-Zhang.github.io
 # Basic Information
 title: Haoyu Wang
@@ -13,38 +13,26 @@ address: 59 Zhongguancun Ave, Haidian, Beijing, 100089
 address_link: https://www.google.com.hk/maps/search/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6/@35.4866992,113.5988749,6z/data=!3m1!4b1?hl=zh-CN&entry=ttu
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal light
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links
-# If you don't need one of them, you may delete the corresponding line.
-# cv_link: assets/files/HanchaoZhangCV.pdf
 cv_link: ./assets/[E4]Haoyu_Wang_CV.pdf
-<!-- linkedin: https://www.linkedin.com/in -->
 twitter: https://x.com/wangharri
 
-# Images (e.g., your profile picture and your website's favicon)
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
+# Images
 avatar: ./assets/haoyu.jpg
-# logo: ./assets/img/logo.png
 favicon: ./assets/avatar2.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: false
 
 # Google Analytics ID
-# Please remove this if you don't use Google Analytics
+google_analytics: G-TLBTYV5YVR
 
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-
-
-# The following files will be removed from the generated website.
+# Exclude files from build
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -54,6 +42,3 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
-
-google_analytics:
-  id: G-TLBTYV5YVR
