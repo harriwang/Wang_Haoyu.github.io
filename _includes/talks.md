@@ -209,10 +209,6 @@
   <li><a href="https://mp.weixin.qq.com/s/52sjxqy_7mqXIJ-oZzFrIw" target="_blank">The 7th Peking University “Medicine, Humanity and Media” International Conference</a> (Conference Volunteer)</li>
 </ul>
 
-<h4 style="margin: 10px 10px 0;">Research and Teaching Assistant</h4>
-<ul style="margin:0 0 10px;">
-  <li><a href="http://jcr.ruc.edu.cn/English/index.htm" target="_blank">Journalism and Communication, Renmin University of China</a> (Teaching Assistant)</li>
-  <li><a href="https://www.natcom.org/" target="_blank">National Communication Association (NCA) Annual Convention</a> (Conference Paper Reviewer)</li>
 <br>
 
 
