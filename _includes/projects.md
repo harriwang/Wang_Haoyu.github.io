@@ -34,7 +34,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://rpubs.com/wangharri/1194425">Does Digital Detox Make Us More Satisfied with Life? A Bayesian Meta-Analysis</a></div>
-    <div class="author"><strong>Haoyu Wang*</strong></div>
+    <div class="author"><strong>Haoyu Wang*</strong>Xiaoyu Xia</div>
     <div class="periodical"><em><strong>Under Preparation</strong></em></div>
     <div class="links">
     </div>
@@ -52,7 +52,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Latent Profile Analysis of Cyberchondria and its Relationships with Health Information Behaviors</div>
-    <div class="author"><strong>Haoyu Wang*</strong>, Jingxi Chen</div>
+    <div class="author"><strong>Haoyu Wang*</strong></div>
     <div class="periodical"><em><strong>Under Preparation</strong></em></div>
     <div class="links">
     </div>
