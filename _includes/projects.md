@@ -9,7 +9,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <img src="assets/fo.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Under Review</abbr>
+    <abbr class="badge">Revision</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -18,7 +18,7 @@
     <div class="periodical"><em><strong>Current Psychology</strong></em></div>
     <div class="links">
       <a href="assets/FoMO.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">Under Review</i></strong>
+      <strong><i style="color:#7b5aa6">Under Review - Major Revision</i></strong>
     </div>
   </div>
 </div>
