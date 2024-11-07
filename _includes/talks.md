@@ -38,7 +38,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 20px;padding-left: 20px;">
-    <div class="title"><a href="assets/FoMO.pdf">Is Fear of Missing Out (FoMO) Driven by Perceived Social Disconnectedness or Connectedness? A Meta-Analysis</a></div>
+    <div class="title"><a href="assets/fomo2.pdf">Is Fear of Missing Out (FoMO) Driven by Perceived Social Disconnectedness or Connectedness? A Meta-Analysis</a></div>
     <div class="author"><strong>Haoyu Wang*</strong>, Xiaoyu Xia</div>
     <div class="periodical"><em>110th National Communication Association Annual Convention<strong>(NCA)</strong></em></div>
     <div class="links">
