@@ -46,7 +46,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <img src="assets/LPA.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/Rplot01.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Under Preparation</abbr>
   </div>
 
