@@ -163,7 +163,7 @@
     <div class="title"> Collaboration and Communication of Information Security Experts in AI-Driven Organizational Structures</div>
     <div class="author">Xiaofen Ma, Yafei Zhang, <strong>Haoyu Wang*</strong> </div>
     <div class="periodical"><em> Embracing the Digital Future International
-Forum/strong></em></div>
+Forum</strong></em></div>
     <div class="links">
     </div>
   </div>
