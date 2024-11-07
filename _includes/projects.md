@@ -69,7 +69,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Social Psychological Influences on Health Communication: An Examination of Four Theories</a></div>
+    <div class="title">Social Psychological Influences on Health Communication: An Examination of Four Theories</div>
     <div class="author">Liu, Y., & Roberto, A. J.<strong>Translator: Haoyu Wang*</strong></div>
     <div class="periodical"><em><strong>Tongji University Press</strong></em></div>
     <div class="links">
