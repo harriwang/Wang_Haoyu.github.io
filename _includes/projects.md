@@ -51,7 +51,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Latent Profile Analysis of Cyberchondria and its Relationships with Health Information Behaviors</div>
+    <div class="title">Cyberchondria Subtypes and Their Relationship with Brooding, Reflective Pondering and Information Avoidance: A Latent Profile Analysis and Mediation Analysis</div>
     <div class="author"><strong>Haoyu Wang*</strong></div>
     <div class="periodical"><em><strong>Under Preparation</strong></em></div>
     <div class="links">
@@ -71,7 +71,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Social Psychological Influences on Health Communication: An Examination of Four Theories</a></div>
     <div class="author">Liu, Y., & Roberto, A. J.<strong>Translator: Haoyu Wang*</strong></div>
-    <div class="periodical"><em><strong>Tongji University Press</strong></em>, Forthcoming</div>
+    <div class="periodical"><em><strong>Tongji University Press</strong></em></div>
     <div class="links">
        <div class="periodical"><em><strong>Forthcoming</strong></em></div>
     </div>
