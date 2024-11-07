@@ -31,9 +31,9 @@ Outside of academia, I enjoy photography, both digital and film, as well as phot
 
 <!-- {% include_relative _includes/publications.md %} -->
 
-{% include_relative _includes/projects.md %}
+<!--{% include_relative _includes/projects.md %}
 
-{% include_relative _includes/talks.md %}
+{% include_relative _includes/talks.md %}-->
 
 
 
