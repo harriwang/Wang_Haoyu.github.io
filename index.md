@@ -18,15 +18,15 @@ My methodological toolkit encompasses a range of techniques, including web-based
 
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
-
-Outside of academia, I enjoy photography, both digital and film, as well as photo shooting and documentary production. In this regard, I have won provincial awards in the <a href="http://jscts.org.cn/web/notice.php?content=true&newid=27" target="_blank"> Jiangsu Province Transportation Science Popularization Competition</a> and have broadcast my documentary to the public during China Science Popularization Day.
+<!-- 
+Outside of academia, I enjoy photography, both digital and film, as well as photo shooting and documentary production. In this regard, I have won provincial awards in the <a href="http://jscts.org.cn/web/notice.php?content=true&newid=27" target="_blank"> Jiangsu Province Transportation Science Popularization Competition</a> and have broadcast my documentary to the public during China Science Popularization Day.-->
 
 ## Research Interests
 - **Media Psychology and Social Cognition:** Emerging digital technology and mental health (e.g., subjective well-being, FoMO); cognitive and affective mechanisms of persuasive message effects.
 - **Health, Environment, Science Communication:** Public risk perception and engagement in health, environment and science (e.g., microplastics issue and climate change) from the perspective of <a href="https://www.who.int/news-room/fact-sheets/detail/one-health" target="_blank"> "One Health"</a>.
 
 ## Awards
-- **[June. 2021]** <a href="https://jyt.jiangsu.gov.cn/art/2021/6/10/art_58382_9846695.html" target="_blank">*Outstanding Graduate*</a> of Jiangsu Province
+- **[June. 2021]** *Outstanding Graduate* of Jiangsu Province
   - Only **926** out of 600,000 2021 graduates in Jiangsu Province were awarded the title.
 
 <!-- {% include_relative _includes/publications.md %} -->
@@ -40,7 +40,6 @@ Outside of academia, I enjoy photography, both digital and film, as well as phot
 
 
 ## News and Updates
-
 - **[Jul 11, 2024]** Two of our papers have been accepted for presentation at the National Communication Association's 2024 Annual Convention! <a href="https://www.natcom.org/convention" target="_blank"> #2024 NCA</a>!
 - **[Apr 11, 2024]** Completed my presentation at the <a href="https://www.sheffield.ac.uk/journalism/research/ecrea-journalism-2024" target="_blank"> #2024ECREA Journalism Study Conference</a> hosted by the University of Sheffield!
 - **[Mar 11, 2024]** Received a recommendation from <a href="https://grs.ruc.edu.cn/info/1017/2988.htm" target="_blank"> Renmin University of China</a> and a $5,500 grant. This September, I will be visiting and studying at the <a href="https://communication.ucdavis.edu/" target="_blank"> University of California, Davis</a>!
