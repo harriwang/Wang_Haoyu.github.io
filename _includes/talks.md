@@ -152,6 +152,24 @@
 </div>
 </li>
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/AI_experts.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 20px;padding-left: 20px;">
+    <div class="title"> Collaboration and Communication of Information Security Experts in AI-Driven Organizational Structures</div>
+    <div class="author">Xiaofen Ma, Yafei Zhang, <strong>Haoyu Wang*</strong> </div>
+    <div class="periodical"><em> Embracing the Digital Future International
+Forum/strong></em></div>
+    <div class="links">
+    </div>
+  </div>
+</div>
+</li>
+
   <li>
 <div class="pub-row">
 
