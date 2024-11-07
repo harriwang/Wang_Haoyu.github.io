@@ -58,7 +58,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 20px;padding-left: 20px;">
-    <div class="title"><a href="assets/3214.pdf">The Impact of Multimodal Health Education on Health Awareness Among the Mobile Population: An Eye-Tracking Experiment Based on Information About Ground-Glass Nodules in the Lungs</a></div>
+    <div class="title">The Impact of Multimodal Health Education on Health Awareness Among the Mobile Population: An Eye-Tracking Experiment Based on Information About Ground-Glass Nodules in the Lungs</div>
     <div class="author">Bingqing Zhu, <strong>Haoyu Wang*</strong>, ... , Liang Zhao</div>
     <div class="periodical"><em>110th National Communication Association Annual Convention<strong>(NCA)</strong></em></div>
     <div class="links">
