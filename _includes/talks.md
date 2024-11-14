@@ -123,7 +123,7 @@
     <div class="author"><strong>Haoyu Wang*</strong>, Jingxi Chen</div>
     <div class="periodical"><em> 2024 Tech & Crafts International Congress </em></div>
     <div class="links">
-      <div <strong>*Best Paper Award*</strong>>
+      <div <strong>*Best Paper Award*</strong> >
       <strong><i style="color:#7b5aa6">presenter</i></strong>
     </div>
   </div>
