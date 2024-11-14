@@ -110,25 +110,28 @@
 </div>
 </li>
 
+
 <li>
-  <div class="pub-row">
-    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
-      <img src="assets/Rplot01.png" class="teaser img-fluid z-depth-1">
-      <abbr class="badge"></abbr>
-    </div>
-    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
-      <div class="title">
-        <a href="assets/Haoyu_tech_craft.pdf">Latent Profile Analysis of Cyberchondria and its Relationship with Health Information Behaviors</a>
-      </div>
-      <div class="author"><strong>Haoyu Wang*</strong>, Jingxi Chen</div>
-      <div class="periodical"><em>2024 Tech & Crafts International Congress</em> <strong>*Best Paper Award*</strong></div>
-      <div class="links">
-        <strong><i style="color:#7b5aa6">presenter</i></strong>
-      </div>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/Rplot01.png"" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="assets/Haoyu_tech_craft.pdf">Latent Profile Analysis of Cyberchondria and its Relationship with Health Information Behaviors</a></div>
+    <div class="author"><strong>Haoyu Wang*</strong>, Jingxi Chen</div>
+    <div class="periodical"><em>2024 Tech & Crafts International Congress <strong>Best Paper Award</strong></em></div>
+    <div class="links">
+      <a href="aassets/Haoyu_tech_craft.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <strong><i style="color:#7b5aa6">presenter</i></strong>
     </div>
   </div>
+</div>
 </li>
 
+
+    
 
 <!-- 
   <li>
