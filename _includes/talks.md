@@ -119,7 +119,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/Wang Haoyu - Tech & Craft.pptx">Latent Profile Analysis of Cyberchondria and its Relationship with Health Information Behaviors</div>
+    <div class="title"><a href="assets/Haoyu_tech_craft.pdf">Latent Profile Analysis of Cyberchondria and its Relationship with Health Information Behaviors</div>
     <div class="author"><strong>Haoyu Wang*</strong>, Jingxi Chen</div>
     <div class="periodical"><em> 2024 Tech & Crafts International Congress <strong>*Best Paper Award*</strong></em></div>
     <div class="links">
