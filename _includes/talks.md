@@ -116,7 +116,6 @@
       <img src="assets/Rplot01.png" class="teaser img-fluid z-depth-1">
       <abbr class="badge"></abbr>
     </div>
-    
     <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
       <div class="title">
         <a href="assets/Haoyu_tech_craft.pdf">Latent Profile Analysis of Cyberchondria and its Relationship with Health Information Behaviors</a>
